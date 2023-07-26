@@ -119,7 +119,3 @@ if __name__ == "__main__":
         for privateKay in privateKeys:
             start(chain, privateKay, recipient)
         time.sleep(2)
-
-# while True:
-#     getETHBalance('8719904fd581e4e85469b6a4e3f94a86dcbc9ede63fa95c68522f11916ae16ab')
-#     time.sleep(2)
